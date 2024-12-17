@@ -1,0 +1,38 @@
+_repo: De-drie-vrouwen-in-het-Heilige-Woud_74781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wit, Augusta de
+    alias: De Wit, Augusta
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '33232'
+    url: http://www.gutenberg.org/2009/agents/33232
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Augusta_de_Wit
+    - https://nl.wikipedia.org/wiki/Augusta_de_Wit
+description: ''
+gutenberg_issued: '2024-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74781'
+language: nl
+pgterms:marc905: 20240129123406wit
+pgterms:marc906: '1920'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aAmsterdam :$bMeulenhoff, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesia -- Fiction'
+- !lcsh 'Short stories, Dutch'
+- !lcsh 'Dutch fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: De drie vrouwen in het Heilige Woud -- Aan het strand -- De Jager
+  -- Gezichten op Zee.
+title: De drie vrouwen in het Heilige Woud
+url: http://www.gutenberg.org/ebooks/74781
