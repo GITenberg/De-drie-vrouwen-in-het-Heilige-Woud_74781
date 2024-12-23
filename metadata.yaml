@@ -1,5 +1,8 @@
 _repo: De-drie-vrouwen-in-het-Heilige-Woud_74781
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74781-h/images/backcover.jpg
 creator:
   author:
     agent_name: Wit, Augusta de
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Augusta_de_Wit
     - https://nl.wikipedia.org/wiki/Augusta_de_Wit
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74781#De-drie-vrouwen-in-het-Heilige-Woud
 gutenberg_issued: '2024-11-22'
 gutenberg_type: Text
 identifiers:
